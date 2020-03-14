@@ -1,0 +1,17 @@
+Package: compressr
+Title: compressr - lazy packing and unpacking of files and directories
+Description: Simple wrapper functions for tar, untar, zip and unzip from the utils package.
+Version: 0.1
+Depends:
+    R (>= 3.5)
+Imports:
+    utils,
+    fs
+Encoding: UTF-8
+Maintainer: Ben Tupper <btupper@bigelow.org>
+Author: Ben Tupper <btupper@bigelow.org>
+URL: https://github.com/btupper/compressr
+License: MIT + file LICENSE
+LazyData: true
+RoxygenNote: 7.0.2
+
