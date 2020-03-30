@@ -3,7 +3,7 @@ Title: compressr - lazy packing and unpacking of files and directories
 Description: Simple wrapper functions for tar, untar, zip and unzip from the utils package.
 Version: 0.1
 Depends:
-    R (>= 3.5)
+    R (>= 3)
 Imports:
     utils,
     fs
